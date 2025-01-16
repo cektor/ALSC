@@ -5,7 +5,7 @@
 # ALSC - Advanced Linux System Cleaner
 This program was developed to facilitate maintenance and cleaning of Linux systems.
 
-<h1 align="center">ALSC Logo</h1>
+<h1 align="center">ALSC - Advanced Linux System Cleaner Logo</h1>
 
 <p align="center">
   <img src="alsclo.png" alt="ALSC Logo" width="150" height="150">
