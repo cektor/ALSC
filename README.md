@@ -69,7 +69,7 @@ pip3 install psutil
 
 
 # Installation
-Install Searcher
+Install ALSC
 
 ```bash
 sudo git clone https://github.com/cektor/ALSC.git
