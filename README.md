@@ -79,7 +79,7 @@ cd ALSC
 ```
 
 ```bash
-python3 alsc.py
+sudo python3 alsc.py
 
 ```
 
