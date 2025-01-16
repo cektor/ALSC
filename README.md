@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
 </a>
 
-# ALSC
+# ALSC - Advanced Linux System Cleaner
 This program was developed to facilitate maintenance and cleaning of Linux systems.
 
 <h1 align="center">ALSC Logo</h1>
