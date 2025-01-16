@@ -1,0 +1,9 @@
+alsc.desktop
+alsclo.png
+setup.py
+alsc.egg-info/PKG-INFO
+alsc.egg-info/SOURCES.txt
+alsc.egg-info/dependency_links.txt
+alsc.egg-info/entry_points.txt
+alsc.egg-info/requires.txt
+alsc.egg-info/top_level.txt
